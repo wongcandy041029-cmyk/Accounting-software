@@ -48,6 +48,20 @@ Category-based expense analysis with interactive charts
 
 Modal form for adding new transactions
 
+## Project Purpose & Development Process
+
+### Purpose
+
+**INE Tracker** is a privacy-first personal finance application that keeps all financial data locally in the user's browser.
+
+- **Target Users**: Privacy-conscious individuals, freelancers, and students who want full control over their financial data.
+- **Possible Usage**: Daily expense tracking, monthly budget review, and category‑based spending analysis.
+
+### Development Process
+
+- **Selected Model**: Agile (Iterative Development)
+- **Reason**: Personal finance requirements often evolve through actual usage. Agile allowed the project to start with a minimal viable product (calendar + basic transaction entry) and incrementally add analytics dashboards, PWA support, and advanced charts based on testing feedback. Waterfall would have required a complete upfront specification, which is unrealistic for a solo‑developed exploratory tool.
+
 ## Features
 
 ### Core Functionality
